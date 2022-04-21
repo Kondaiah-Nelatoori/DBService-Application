@@ -1,0 +1,14 @@
+server:
+  port: 9090
+
+spring:
+  application:
+    name: DB-Services
+
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: DB_Service
+
+
